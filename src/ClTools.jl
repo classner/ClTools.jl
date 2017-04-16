@@ -1,6 +1,6 @@
 module ClTools
 
 include("visualization.jl")
-# package code goes here
+include("config.jl")
 
 end # module
